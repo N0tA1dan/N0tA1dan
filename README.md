@@ -1,4 +1,4 @@
 ### Hey Im Aidan Aka NotAidan.
 
 ### Github stats
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=N0tA1dan&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.N0tA1dan.vercel.app/api?username=N0tA1dan&show_icons=true&hide_border=true" />
