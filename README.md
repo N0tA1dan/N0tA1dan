@@ -1,4 +1,4 @@
-### Hey Im Aidan Aka NotAidan.
+### Hey 👋, Im Aidan Aka NotAidan.
 
 ---
 
