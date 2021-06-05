@@ -16,3 +16,8 @@ I can code in multiple languages such as Java, Python, Html, Css, ect...
 I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
 
 
+---
+
+### GitHub Stats
+
+![N0tA1dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0tA1dan&show_icons=true&theme=dark)
