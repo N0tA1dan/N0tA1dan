@@ -9,7 +9,7 @@
 ---
 ### About Me
 
-- My name is Aidan and I'm a self taught programmer from California.
+- My name is Aidan and I'm a self taught 14 year old programmer from California.
 
 - I can code in multiple languages such as Java, Python, Html, Css, ect...
 
