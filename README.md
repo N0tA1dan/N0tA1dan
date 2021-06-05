@@ -9,4 +9,4 @@
 
 ### Spotify current song playing
 
-[<img src="https://now-playing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/dv50lpdjrcb0zn4paj4bu8c8c)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
