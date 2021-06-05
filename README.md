@@ -1,6 +1,5 @@
 ### Hello World 👋, Im Aidan Aka NotAidan.
 
-[![Discord Chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2AY6PDUFUN) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tA1dan)
 ---
 
 ### Current Song Playing 🎧
@@ -15,7 +14,11 @@
 - I can code in multiple languages such as Java, Python, Html, Css, ect...
 
 - I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
+- 
+---
 
+### Contact Me
+[![Discord Chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2AY6PDUFUN) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tA1dan)
 
 ---
 
