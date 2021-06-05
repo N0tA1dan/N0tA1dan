@@ -16,6 +16,11 @@
 - I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
 
 ---
+### What I code in
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://discord.gg/2AY6PDUFUN
+
+---
 
 ### Contact Me
 [![Discord Chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2AY6PDUFUN) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tA1dan)
