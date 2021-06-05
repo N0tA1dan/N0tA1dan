@@ -13,4 +13,6 @@ My name is Aidan and I'm a self taught programmer from California.
 
 I can code in multiple languages such as Java, Python, Html, Css, ect...
 
-I usually code random stuff 
+I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
+
+
