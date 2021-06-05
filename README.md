@@ -1,2 +1,2 @@
 ### Hey Im Aidan Aka [Aidan][website]
-[Website](https://codestackr.com)
+[website](https://codestackr.com)
