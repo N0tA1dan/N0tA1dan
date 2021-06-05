@@ -14,7 +14,7 @@
 - I can code in multiple languages such as Java, Python, Html, Css, ect...
 
 - I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
-- 
+
 ---
 
 ### Contact Me
