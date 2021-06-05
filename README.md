@@ -1,5 +1,7 @@
 ### Hello World 👋, Im Aidan Aka NotAidan.
 
+[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/)
+
 ---
 
 ### Current Song Playing 🎧
