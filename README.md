@@ -30,7 +30,9 @@
 ---
 ### Support me
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/notaidan){:target="_blank"}
+If you would like to support me you can [buy me a coffee.](https://www.buymeacoffee.com/notaidan)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/notaidan)
 
 
 ---
