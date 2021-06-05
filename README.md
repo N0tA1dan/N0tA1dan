@@ -1,6 +1,6 @@
 ### Hello World 👋, Im Aidan Aka NotAidan.
 
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/)
+[![Discord Chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/)
 
 ---
 
