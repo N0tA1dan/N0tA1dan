@@ -19,7 +19,7 @@
 ### What I code in
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-](https://discord.gg/2AY6PDUFUN)
+)](https://discord.gg/2AY6PDUFUN)
 
 ---
 
