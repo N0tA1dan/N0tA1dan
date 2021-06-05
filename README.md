@@ -1,5 +1,6 @@
 ### Hello World 👋, Im Aidan Aka NotAidan.
 
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
 ---
 
 ### Current Song Playing 🎧
