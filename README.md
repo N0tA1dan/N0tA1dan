@@ -1,4 +1,4 @@
-### Hello World 👋, Im Aidan Aka NotAidan.e
+### Hello World 👋, Im Aidan Aka NotAidan.
 
 ---
 ### Current Song Playing 🎧
