@@ -14,18 +14,17 @@
 
 - I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
 
+---
+### Languages I know
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+)](https://www.oracle.com/java/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5) [![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
 ---
 
 ### GitHub Stats
 
 ![N0tA1dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0tA1dan&show_icons=true&theme=dark)
-
----
-### Languages I know
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
-)](https://www.oracle.com/java/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5) [![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 
 ---
 
@@ -40,3 +39,4 @@
 If you would like to support me you can [buy me a coffee.](https://www.buymeacoffee.com/notaidan)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/notaidan)
+
