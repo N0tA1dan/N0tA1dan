@@ -16,6 +16,12 @@
 
 
 ---
+
+### GitHub Stats
+
+![N0tA1dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0tA1dan&show_icons=true&theme=dark)
+
+---
 ### Languages I know
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
@@ -34,10 +40,3 @@
 If you would like to support me you can [buy me a coffee.](https://www.buymeacoffee.com/notaidan)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/notaidan)
-
-
----
-
-### GitHub Stats
-
-![N0tA1dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0tA1dan&show_icons=true&theme=dark)
