@@ -10,9 +10,11 @@
 
 - My name is Aidan and I'm a self taught 14 year old programmer from California.
 
-- I can code in multiple languages such as C, Java, JavaScript, Python, Html, Css, ect...
+- I can code in multiple languages such as C, Java, JavaScript, Python, Html, Css, etc...
 
 - I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
+
+- I take interest in cryptography and have made some of my own encryption algorithms
 
 ---
 ### Languages I know
