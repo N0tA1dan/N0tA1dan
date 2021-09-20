@@ -14,7 +14,7 @@
 
 - I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
 
-- I take interest in cryptography and have made some of my own encryption algorithms
+- I take interest in cryptography, physics, and mathematics.
 
 ---
 ### Languages I know
