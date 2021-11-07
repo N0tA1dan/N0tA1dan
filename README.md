@@ -17,7 +17,7 @@
 - I take interest in cryptography, physics, and mathematics.
 
 ---
-### Projects Im Working on
+### Projects Im Working On
 
 - Krypton
 - Perseus AV
