@@ -21,7 +21,7 @@
 
 - Krypton
 - Perseus AV
-- All Seeing Eye
+- Argus
 
 ---
 ### Languages I know
