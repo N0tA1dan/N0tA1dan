@@ -3,7 +3,7 @@
 ---
 ### Current Song Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&cover_image=true&theme=novatorem)](https://open.spotify.com/user/dv50lpdjrcb0zn4paj4bu8c8c)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&cover_image=true&theme=default&bar_color_cover=false&bar_color=e6e6e6)](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&redirect=true)
 
 ---
 ### root:~# whoami | About Me
