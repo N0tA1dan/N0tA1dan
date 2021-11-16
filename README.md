@@ -3,7 +3,7 @@
 ---
 ### Current Song Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&cover_image=false&theme=default&bar_color_cover=false&bar_color=e6e6e6)](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 ### root:~# whoami | About Me
 
