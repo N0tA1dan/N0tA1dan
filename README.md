@@ -21,6 +21,8 @@
 - Krypton
 - Perseus AV
 - Argus
+- Crab
+- AdBlock + Filtering Plugin
 
 ---
 ### Languages I know
