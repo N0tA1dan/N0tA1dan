@@ -1,4 +1,4 @@
-### Hello World 👋, Im Aidan Aka NotAidan. <img width="50px" src="https://tenor.com/bvbsL.gif">
+### Hello World 👋, Im Aidan Aka NotAidan. <img width="50px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 
 
 ---
