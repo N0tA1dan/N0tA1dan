@@ -10,7 +10,7 @@
 
 - My name is Aidan and I'm a self taught 14 year old programmer from California.
 
-- I can code in multiple languages such as C, C++, Java, JavaScript, Python, Html, Css, etc...
+- I know multiple languages such as C, C++, Java, JavaScript, Python, Html, Css, etc...
 
 - I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
 
@@ -20,10 +20,6 @@
 ### Projects Im Working On
 
 - Krypton
-- Perseus AV
-- Argus
-- Crab
-- AdBlock + Filtering Plugin
 
 ---
 ### Languages I know
