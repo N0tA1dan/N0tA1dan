@@ -8,7 +8,7 @@
 ---
 ### root:~# whoami | About Me
 
-- My name is Aidan and I'm a self taught 14 year old programmer from California.
+- My name is Aidan and I'm a self taught 15 year old programmer from California.
 
 - I know multiple languages such as C, C++, Java, JavaScript, Python, Html, Css, etc...
 
