@@ -10,11 +10,9 @@
 
 - My name is Aidan and I'm a self taught 15 year old programmer from California.
 
-- I know multiple languages such as C, C++, Java, JavaScript, Python, Html, Css, etc...
+- I know multiple languages such as C, C++, python, ect...
 
-- I usually spend my time coding, doing ctfs, going outside, and hacking into stuff.
-
-- I take interest in cryptography, physics, and mathematics.
+- I like reverse engineering mobile apps, encryption algorithms, and programming.
 
 ---
 ### Projects Im Working On
@@ -41,7 +39,7 @@
 
 ### Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=notaidan420@gmail.com&tf=cm) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N0tA1dan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=notaidan99@gmail.com&tf=cm)
 
 
 ---
