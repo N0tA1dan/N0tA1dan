@@ -17,6 +17,7 @@
 ---
 ### Projects Im Working On
 
+- C elf parser && string parser
 - Krypton
 - pgpmsgr
 - xssmap
