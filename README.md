@@ -1,16 +1,12 @@
-### Hello World 👋, Im Aidan Aka NotAidan.
+### Hello, Im Aidan.
 
 
----
-### Current Song Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dv50lpdjrcb0zn4paj4bu8c8c&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 ### root:~# whoami | About Me
 
 - My name is Aidan and I'm a self taught 17 year old programmer from California.
 
-- I know multiple languages such as C, C++, python, ect...
+- I am familiar multiple languages such as C, C++, python, ect...
 
 - I like reverse engineering mobile apps, encryption algorithms, and programming.
 
@@ -21,6 +17,7 @@
 - Krypton
 - pgpmsgr
 - xssmap
+- pymba
 ---
 ### Languages I know
 
@@ -35,18 +32,4 @@
 ### GitHub Stats
 
 ![N0tA1dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0tA1dan&show_icons=true&theme=dark)
-
----
-
-### Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=notaidan99@gmail.com&tf=cm)
-
-
----
-### Support me
-
-If you would like to support me you can [buy me a coffee.](https://www.buymeacoffee.com/notaidan)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/notaidan)
 
