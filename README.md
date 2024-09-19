@@ -13,11 +13,10 @@
 ---
 ### Projects Im Working On
 
-- C elf parser && string parser
-- Krypton
-- pgpmsgr
-- xssmap
-- pymba
+- Custom Block cipher
+- small compiler
+- statistical models for stocks
+  
 ---
 ### Languages Im familiar with
 
