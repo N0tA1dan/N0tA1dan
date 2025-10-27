@@ -4,8 +4,10 @@
 ---
 ### root:~# whoami | About Me
 
-- My name is Aidan and I'm a self taught 17 year old programmer from California.
+- My name is Aidan and I'm a self taught 18 year old programmer from California.
 
+- Currently studying Computer Science and Engineering
+- 
 - I am familiar multiple languages such as C, C++, python, ect...
 
 - I like reverse engineering mobile apps, encryption algorithms, and programming.
@@ -15,8 +17,8 @@
 
 - Custom Block cipher
 - small compiler
-- statistical models for stocks
-  
+- reverse engineering tools
+- AI detection software
 ---
 ### Languages Im familiar with
 
