@@ -2,7 +2,7 @@
 
 
 ---
-### root:~# whoami | About Me
+About Me
 
 - My name is Aidan and I'm a self taught 18 year old programmer from California.
 
