@@ -15,7 +15,7 @@
 ---
 ### Projects Im Working On
 
-- Custom Block cipher
+- Math solver using latex
 - small compiler
 - reverse engineering tools
 - AI detection software
