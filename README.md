@@ -26,7 +26,3 @@
 
 ---
 
-### GitHub Stats
-
-![N0tA1dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0tA1dan&show_icons=true&theme=dark)
-
